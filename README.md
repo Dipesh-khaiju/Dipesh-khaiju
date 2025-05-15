@@ -2,10 +2,10 @@
 
 ![Dipesh-khaiju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipesh-khaiju&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh-khaiju&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh-khaiju&layout=donut&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dipesh-khaiju&theme=tokyonight)
-## Hi there 👋
+
 
 <!--
 **Dipesh-khaiju/Dipesh-khaiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
